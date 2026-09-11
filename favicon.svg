@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="CC98 Personal">
+  <defs>
+    <linearGradient id="cc98-shield" x1="5" y1="2" x2="27" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#60a5fa" />
+      <stop offset="0.55" stop-color="#3b82f6" />
+      <stop offset="1" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M16 3H26.5A1.5 1.5 0 0 1 28 4.5V15.2C28 21.4 23.4 26.6 16 28.9 8.6 26.6 4 21.4 4 15.2V4.5A1.5 1.5 0 0 1 5.5 3Z"
+    fill="url(#cc98-shield)"
+  />
+  <g fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round">
+    <circle cx="10.6" cy="12.7" r="3.4" />
+    <path d="M14 12.7V21.3" />
+    <circle cx="21.2" cy="11.8" r="2.5" />
+    <circle cx="21.2" cy="17.8" r="3.5" />
+  </g>
+</svg>
